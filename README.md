@@ -1,5 +1,5 @@
 # WiiChat
-WiiChat is my app that basically is wiiconnect24 but better and with more things and it will bring more things as updates Go on. 
+WiiChat is my app that basically a new app but better than Wii connect24 and could have a chance to be as good as wiilink and with more things and it will bring more things as updates Go on. 
 
 
 to install the app put the folder called WiiChat into the apps folder on a USB drive formatted in fat32 make sure you have homebrew channel installed or it won't work. 
